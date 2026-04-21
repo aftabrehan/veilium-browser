@@ -2,6 +2,8 @@
 
 **Veilium** is a desktop browser designed with privacy and speed at its core. It gives you a clean, modern browsing experience while making sure your screen content stays protected from unwanted captures — even at the operating system level.
 
+<img width="1424" height="752" alt="Gemini_Generated_Image_9bfohp9bfohp9bfo cleaned (1)" src="https://github.com/user-attachments/assets/476968f5-3668-4451-8041-ae9bb0dbfd9a" />
+
 ### What Makes Veilium Different
 
 - **Built-in Screen Protection** — Your browsing stays private, invisible to screen capture tools
